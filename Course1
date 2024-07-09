@@ -5,8 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Name: Ankit Uikey
+Module: Dynamic Programming
+Dynamic Programming (DP) is a technique / method used in mathematics and computer science to solve complex problems by breaking them down into simpler sub-problems, the results are saved and then the sub-problems are optimized to find the overall solution. It avoids redundant computations, leading to more efficient solutions for a wide range of problems.
